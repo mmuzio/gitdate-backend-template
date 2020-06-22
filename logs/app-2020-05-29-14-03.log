@@ -1,0 +1,3 @@
+[2020-05-29 14:03:03,561] [http-nio-8080-exec-1] [INFO] [org.apa.jul.log.DirectJDKLog::log] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2020-05-29 14:03:03,562] [http-nio-8080-exec-1] [INFO] [org.spr.web.ser.FrameworkServlet::initServletBean] - Initializing Servlet 'dispatcherServlet'
+[2020-05-29 14:03:03,590] [http-nio-8080-exec-1] [INFO] [org.spr.web.ser.FrameworkServlet::initServletBean] - Completed initialization in 27 ms

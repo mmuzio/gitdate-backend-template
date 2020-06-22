@@ -1,0 +1,9 @@
+[2020-06-22 12:38:16,651] [http-nio-8080-exec-7] [DEBUG] [com.exa.spr.mon.MonitoringAOPConfig::daoResponseTimeAdvice] - pjp target: com.example.springsocial.dao.UserDAO@459485a6
+[2020-06-22 12:38:16,657] [http-nio-8080-exec-7] [DEBUG] [com.exa.spr.dao.UserDAO::findAll] - Retrieving all users
+[2020-06-22 12:38:19,310] [http-nio-8080-exec-9] [DEBUG] [com.exa.spr.mon.MonitoringAOPConfig::daoResponseTimeAdvice] - pjp target: com.example.springsocial.dao.UserDAO@459485a6
+[2020-06-22 12:38:19,314] [http-nio-8080-exec-9] [DEBUG] [com.exa.spr.dao.UserDAO::findByUsername] - Retrieving user with username: mmuzio2
+[2020-06-22 12:38:19,315] [http-nio-8080-exec-9] [DEBUG] [com.exa.spr.dao.UserDAO::findByUsername] - Found user: com.example.springsocial.model.User@46f710da
+[2020-06-22 12:38:19,350] [http-nio-8080-exec-9] [DEBUG] [com.exa.spr.mon.MonitoringAOPConfig::daoResponseTimeAdvice] - pjp target: com.example.springsocial.dao.MatchDAO@555df7d4
+[2020-06-22 12:38:19,353] [http-nio-8080-exec-9] [DEBUG] [com.exa.spr.dao.MatchDAO::saveAndFlush] - save and flush match: com.example.springsocial.model.Match@14b997b5
+[2020-06-22 12:38:19,374] [http-nio-8080-exec-10] [DEBUG] [com.exa.spr.mon.MonitoringAOPConfig::daoResponseTimeAdvice] - pjp target: com.example.springsocial.dao.UserDAO@459485a6
+[2020-06-22 12:38:19,374] [http-nio-8080-exec-10] [DEBUG] [com.exa.spr.dao.UserDAO::findAll] - Retrieving all users
