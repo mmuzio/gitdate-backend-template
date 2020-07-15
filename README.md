@@ -6,6 +6,13 @@ Use the [Gitdate Frontend Template](https://github.com/mmuzio/gitdate-template "
 
 This template is built with Spring Boot. It uses Hibernate and Spring Data for data access operations. It has an AOP configuration for logging all repository, service, and controller method calls.
 
+This project took inspiration (and a lot of code!) from the following repositories:
+
+- [Spring Security with Github Oauth](https://github.com/callicoder/spring-boot-react-oauth2-social-login-demo/tree/master/spring-social "Spring Security with Github Oauth")
+  - Most of the application architecture taken from this repo
+- [Microservice Framework for AOP Monitoring](https://github.com/IBM/microsvcengineering/tree/master/microsvcframework "Microservice Framework for AOP Monitoring")
+  - The com.example.springsocial.monitoring package was based on the com.ibm.dip.microsvcengineering.framework.monitoring package in this repo
+  
 ### Setup
 
 1. Create a github oauth application
